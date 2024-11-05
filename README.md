@@ -1,1 +1,3 @@
-# LITA_-CAPSTONE__PROJECT_1
+# **LITA SALES DATA**
+
+## **Table of Contents**
